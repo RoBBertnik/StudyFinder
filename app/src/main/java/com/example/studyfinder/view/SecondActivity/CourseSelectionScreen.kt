@@ -1,6 +1,5 @@
 package com.example.studyfinder
 
-import android.app.Activity
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.*
@@ -8,7 +7,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -17,7 +15,6 @@ import androidx.navigation.compose.rememberNavController
 import com.example.studyfinder.model.courseList
 import com.example.studyfinder.ui.theme.StudyFinderTheme
 import com.example.studyfinder.view.MyDrawer
-import com.example.studyfinder.view.Screen
 import com.example.studyfinder.viewModel.CourseViewModel
 import com.example.studyfinder.viewModel.UserViewModel
 import kotlinx.coroutines.CoroutineScope

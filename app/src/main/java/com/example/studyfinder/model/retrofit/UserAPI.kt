@@ -1,8 +1,6 @@
 package com.example.studyfinder.model.retrofit
 
 import com.example.studyfinder.model.User
-import okhttp3.Connection
-import okhttp3.internal.http.hasBody
 import retrofit2.Response
 import retrofit2.http.*
 

@@ -38,7 +38,6 @@ fun LoginScreen(navController: NavController, userViewModel: UserViewModel? = nu
     intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
 
 
-
     StudyFinderTheme {
         Scaffold(
             topBar = {

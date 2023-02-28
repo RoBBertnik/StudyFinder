@@ -1,18 +1,11 @@
 package com.example.studyfinder
 
-import android.content.BroadcastReceiver
-import android.content.Context
-import android.content.Intent
-import android.content.IntentFilter
-import android.net.ConnectivityManager
 import android.os.Bundle
 import android.util.Log
-import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.example.studyfinder.model.Connectivity
 import com.example.studyfinder.ui.theme.StudyFinderTheme
 import com.example.studyfinder.view.Screen
 import com.example.studyfinder.viewModel.CourseViewModel

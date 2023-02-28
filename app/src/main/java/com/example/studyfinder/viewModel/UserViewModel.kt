@@ -10,8 +10,6 @@ import com.example.studyfinder.model.auth
 import com.example.studyfinder.model.User
 import com.example.studyfinder.model.retrofit.userAPI
 import kotlinx.coroutines.async
-import kotlinx.coroutines.awaitAll
-import kotlinx.coroutines.joinAll
 import kotlinx.coroutines.tasks.await
 
 class UserViewModel : ViewModel(){
