@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudyFinder</string>
+    <string name="title_activity_nav_host_view">NavHostView</string>
+</resources>

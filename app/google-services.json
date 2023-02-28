@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764343751865",
+    "firebase_url": "https://studyfinder-b616c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "studyfinder-b616c",
+    "storage_bucket": "studyfinder-b616c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764343751865:android:675ff58515b0987c763768",
+        "android_client_info": {
+          "package_name": "com.example.studyfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764343751865-sd4f6bh8tjl4q5krseqsbl9d8rfvi0i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQ53m1evY8ArXXfwucdTScPhTssoa08o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764343751865-sd4f6bh8tjl4q5krseqsbl9d8rfvi0i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
